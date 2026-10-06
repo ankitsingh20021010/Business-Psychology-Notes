@@ -120,6 +120,7 @@ Jab options bahut zyada ho jaate hain:
 - 😵 Decision fatigue ho sakti hai
 - ❌ Person decision postpone kar sakta hai
 
+
 ### Formula
 
 **More Options → More Comparison → More Mental Effort → Possible Decision Difficulty**
