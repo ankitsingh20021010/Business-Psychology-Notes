@@ -1,5 +1,5 @@
 # Primacy Effect
-
+  
 ## What is Primacy Effect?
 
 **Primacy Effect** ek psychological phenomenon hai jisme kisi list, conversation, presentation ya interaction mein **jo information hum sabse pehle receive karte hain, uska impact baad ki information ke comparison mein zyada ho sakta hai.**
