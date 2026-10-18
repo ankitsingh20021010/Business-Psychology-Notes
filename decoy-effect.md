@@ -6,7 +6,7 @@
 **Decoy Effect** ek psychological effect hai jisme ek **third option** introduce kiya jata hai jo intentionally less attractive hota hai.
 
 Uska purpose aksar kisi doosre option ko comparatively **more attractive** banana hota hai.
-
+ 
 ### Simple Example
 
 Imagine:
