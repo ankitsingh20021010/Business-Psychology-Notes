@@ -7,7 +7,7 @@
 Simple language:
 
 > **Jo option already selected hai, usko waise hi rehne dena easy lagta hai.**
-
+ 
 ---
 
 ## Simple Example
